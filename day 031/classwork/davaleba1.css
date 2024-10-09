@@ -1,0 +1,21 @@
+#p1 {
+  color: rgb(89, 29, 68);
+}
+#p2 {
+  color: rgb(158, 33, 124);
+}
+#p3 {
+  color: rgb(242, 135, 5);
+}
+#p4 {
+  color: rgb(181, 197, 22);
+}
+#p5 {
+  color: rgb(242, 31, 12);
+}
+p {
+  font-size: 50px;
+}
+body {
+  background-color: antiquewhite;
+}

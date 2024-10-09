@@ -1,0 +1,12 @@
+div {
+  font-size: 500px;
+  background-color: rgb(199, 157, 18);
+}
+div div {
+  font-size: 25%;
+  background-color: rgb(15, 202, 143);
+}
+div div p {
+  font-size: 50%;
+  color: rgb(199, 18, 18);
+}
