@@ -1,0 +1,1 @@
+print("gakvetilze ar viyavi :>")
