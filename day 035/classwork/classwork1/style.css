@@ -1,0 +1,11 @@
+table {
+  border-collapse: collapse;
+  font-size: 150px;
+}
+th {
+  background-color: green;
+  color: white;
+}
+tr {
+  border-top: 1px solid gray;
+}
